@@ -1,6 +1,6 @@
 ### Hi Dear, I'm Komol Chandra Das
 #### Software Developer 
-![Software Developer ](generator/images/banner.png)
+
 
 Love to learn new technology and love to face challenges. 
 
